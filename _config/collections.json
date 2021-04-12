@@ -1,0 +1,107 @@
+{
+  "-6c8f39bb": {
+    "collection": "post",
+    "query": {
+      "offset": 0,
+      "limit": 8
+    }
+  },
+  "1f4a07e9": {
+    "collection": "post"
+  },
+  "5408aa0": {
+    "collection": "post",
+    "query": {
+      "fields": [
+        {
+          "fieldPath": "category",
+          "operatorName": "eq",
+          "value": "category/domestic-policy.md"
+        }
+      ]
+    }
+  },
+  "-38d50489": {
+    "collection": "post",
+    "query": {
+      "fields": [
+        {
+          "fieldPath": "category",
+          "operatorName": "eq",
+          "value": "category/economic-policy.md"
+        }
+      ]
+    }
+  },
+  "4a9ec7b4": {
+    "collection": "post",
+    "query": {
+      "fields": [
+        {
+          "fieldPath": "category",
+          "operatorName": "eq",
+          "value": "category/foreign-policy.md"
+        }
+      ]
+    }
+  },
+  "-780ddd76": {
+    "collection": "post",
+    "query": {
+      "fields": [
+        {
+          "fieldPath": "category",
+          "operatorName": "eq",
+          "value": "category/immigration-policy.md"
+        }
+      ]
+    }
+  },
+  "319de05f": {
+    "collection": "post",
+    "query": {
+      "fields": [
+        {
+          "fieldPath": "category",
+          "operatorName": "eq",
+          "value": "category/law.md"
+        }
+      ]
+    }
+  },
+  "-339337fa": {
+    "collection": "post",
+    "query": {
+      "fields": [
+        {
+          "fieldPath": "category",
+          "operatorName": "eq",
+          "value": "category/political-commentary.md"
+        }
+      ]
+    }
+  },
+  "-637040d1": {
+    "collection": "post",
+    "query": {
+      "fields": [
+        {
+          "fieldPath": "category",
+          "operatorName": "eq",
+          "value": "category/social-policy.md"
+        }
+      ]
+    }
+  },
+  "-43b7efea": {
+    "collection": "scholars"
+  },
+  "-3d4c1bba": {
+    "collection": "scholars",
+    "query": {
+      "sort": [
+        "created-on"
+      ]
+    }
+  }
+}

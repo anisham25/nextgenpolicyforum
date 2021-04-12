@@ -1,0 +1,27 @@
+stackbitVersion: "~0.3.0"
+ssgName: "custom"
+buildCommand: "npx @11ty/eleventy"
+publishDir: "public"
+staticDir: "static"
+uploadDir: "images"
+pagesDir: "site"
+metadata:
+  title: "nextgenpolicyforum"
+  description: "Theme created in Webflow and converted with Udesly"
+models:
+  series:
+    type: "page"
+    label: "Series"
+    urlPath: "/series/{slug}"
+  category:
+    type: "page"
+    label: "Categories"
+    urlPath: "/category/{slug}"
+  post:
+    type: "page"
+    label: "Blog Posts"
+    urlPath: "/post/{slug}"
+  scholars:
+    type: "page"
+    label: "Scholars"
+    urlPath: "/scholars/{slug}"
