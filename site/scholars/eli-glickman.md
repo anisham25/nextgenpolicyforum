@@ -5,7 +5,7 @@ layout: single-scholars.html
 bio-summary: dhhd
 _draft: false
 picture:
-  url: https://uploads-ssl.webflow.com/60709d161e99854d9db6e401/6070bc52f2b29455bb2eeda6_N%20(1).png
+  url: /static/images/bg-001-p-500.jpeg
   alt: ""
 role: ur mom
 name: Eli Glickma
